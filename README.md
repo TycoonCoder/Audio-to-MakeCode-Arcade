@@ -22,3 +22,8 @@ If you found this tool useful, please consider starring this repository! It enco
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=TycoonCoder/Audio-to-MakeCode-Arcade&type=date&legend=top-left" />
  </picture>
 </a>
+
+<!-- Fork History for TycoonCoder/Audio-to-MakeCode-Arcade -->
+<a href="https://www.fork-history.site/#TycoonCoder%2FAudio-to-MakeCode-Arcade">
+  <img src="https://fork-history.site/svg?repos=TycoonCoder%2FAudio-to-MakeCode-Arcade" alt="Fork History Chart" />
+</a>
